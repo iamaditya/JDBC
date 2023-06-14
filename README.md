@@ -5,7 +5,7 @@ This is a simple Java application for managing student records in a database. It
 ## Table of Contents
 
 - [Prerequisites](#Prerequisites)
-- [Getting Started](#GettingStarted)
+- [Getting Started](#Getting-Started)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
 - [License](#License)
