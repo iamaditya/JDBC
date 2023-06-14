@@ -57,7 +57,6 @@ public class Start {
                 // display
                 StudentDao.displayStudent();
             }else if(n == 4){
-                // terminate
                 break;
             }else{
 
