@@ -1,6 +1,17 @@
 # Student Management System
 This is a simple Java application for managing student records in a database. It provides functionality to add, delete, and display student information using a command-line interface.
 
+
+## Table of Contents
+
+- [Prerequisites](#Prerequisites)
+- [Getting Started](#GettingStarted)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#License)
+- [Acknowledgements](#Acknowledgements)
+
+
 ## Prerequisites
 1. Java Development Kit (JDK)
 2. PostgreSQL Database
@@ -22,7 +33,9 @@ This is a simple Java application for managing student records in a database. It
     java Start
 
 ### Usage
+The application provides the
 The application provides the following options:
+The application provides the following options: following options:
 
 1. Add Student: Add a new student to the database by providing their name, phone number, and city.
 2. Delete Student: Delete a student from the database by entering their ID.
