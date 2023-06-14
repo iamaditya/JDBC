@@ -63,7 +63,7 @@ public class StudentDao {
             PreparedStatement ps = c.prepareStatement(query);
             ResultSet rs=  ps.executeQuery();
 
-
+            System.out.println("ID:\t"+ "Name:\t"+"Phone:\t"+"    City:");
             while(rs.next()){
                 int id = rs.getInt("sid");
                 String name = rs.getString("sname");
@@ -71,7 +71,8 @@ public class StudentDao {
                 String city = rs.getString("scity");
 
 
-                System.out.println("ID: "+id+" Name: "+ name+" Phone: "+phone+" City: "+city);
+                System.out.println(id+"\t"+ name+"\t"+phone+"\t"+city);
+
             }
 
 
