@@ -8,7 +8,7 @@ This is a simple Java application for managing student records in a database. It
 ### Getting Started
 1. Clone the repository:
     
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/iamaditya/JDBC.git
 
 2. Set up the PostgreSQL database:
     1. Install PostgreSQL on your local machine.
@@ -33,8 +33,8 @@ The application provides the following options:
 Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to submit a pull request.
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ### Acknowledgements
-PostgreSQL
-Java JDBC
+* [Postgres](https://www.postgresql.org/)
+* [Java JDBC](https://www.javatpoint.com/java-jdbc/)
